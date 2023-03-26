@@ -1,5 +1,5 @@
-#Rock-Paper-Scissors-The-Game - -
-*R.P.S*
+#Rock-Paper-Scissors-The-Game 
+
 
 
 
