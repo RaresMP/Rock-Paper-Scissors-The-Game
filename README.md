@@ -1,6 +1,8 @@
-Rock-Paper-Scissors-The-Game
+#Rock-Paper-Scissors-The-Game
+*R.P.S*
 
-*R.P.S* 
+
+
 Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken)
 Is a fun and easy game that anyone can learn and enjoy.
 Things You Should Know
