@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-The-Game
+Rock-Paper-Scissors-The-Game
 
 
 Rock, paper, scissors (also known as Rochambeau, Roshambo, or Janken)
